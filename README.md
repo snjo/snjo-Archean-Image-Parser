@@ -66,8 +66,10 @@ If you're using the console version. you can output a grid of the pixels in the 
 
 ## Console version arguments
 
-**ArcheanImageParser imagefile outputfile [mode]**
-**ArcheanImageParser imagefile outputfile [red green blue] [mode]**
+		ArcheanImageParser imagefile outputfile [mode]
+
+		ArcheanImageParser imagefile outputfile [red green blue] [mode]
+
 The output file argument can be replaced by = to use the same name as imagefile + .xc
 
 ### Examples:
